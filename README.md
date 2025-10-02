@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-# Date:02.10.2025
+# Date:
 # AIM:
 To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side.
 
